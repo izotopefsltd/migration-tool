@@ -1,0 +1,4 @@
+MIGRATION NOTES 
+
+- remember to add all Channels
+- remember to add all Channels to each Custom Field of Transactions
